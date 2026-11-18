@@ -1,0 +1,6 @@
+# build output
+build/
+*.apk
+# signing key: never commit it (anyone with it could sign fake updates)
+*.jks
+*.keystore

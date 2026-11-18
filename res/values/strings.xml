@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feed Fence</string>
+    <string name="service_label">Feed Fence</string>
+    <string name="service_description">Feed Fence reads the screen layout only while Instagram is open, to block the Reels tab, Explore and suggested posts. It has no internet permission, so nothing it sees can leave your phone.</string>
+</resources>
